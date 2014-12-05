@@ -1,4 +1,4 @@
-foundry
+Forum
 ==========
 
-foundry framework
+Forum app for team built with NimbusFoundry framework.
